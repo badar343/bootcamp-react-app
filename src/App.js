@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Badar Tariq Chheena</h1>
         
     </div>
   );
