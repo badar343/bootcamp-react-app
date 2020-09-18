@@ -4,11 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>Badar Tariq Chheena</h1>
-        
-    </div>
+    <h1>Badar Tariq is here . . . . Can we have a meeting . . . . </h1>
   );
 }
 
